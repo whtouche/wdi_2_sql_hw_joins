@@ -8,11 +8,11 @@ Using the included schema and starter data (you may need to create more data to 
 4. Which posts contain a specific keyword?
 5. Which category of post has each user made the most comments on?
 6. Get a specific user's posts sorted by date of most recent comment.
-7. Get all posts by a specific user which that user themselves has *not* commented on, but which have at least one comment.
+7. Get all posts by a specific user that have comments, but which that user *hasn't* commented on.
 8. Get the top 5 most-commented-on posts that were created in the last 7 days.
-9. Get the top 5 wordiest posts, in terms of character count.
-10. Get a listing of all posts sorted by longest-running comment thread (length of time between the first and last comments).
+9. Get the top 5 wordiest posts (just by character count &ndash; don't actually count words).
+10. Get all posts sorted by longest-running comment thread (time between first and last comments).
 
 ## Grading
 
-Successful completion of each query listed above is worth 1 point.
+Each query listed above is worth 1 point, for a total of 10 points.
