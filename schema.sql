@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS blog;
-CREATE DATABASE blog;
-\c blog
+DROP DATABASE IF EXISTS hw_joins;
+CREATE DATABASE hw_joins;
+\c hw_joins
 
 CREATE TABLE categories (
   id SERIAL PRIMARY KEY,

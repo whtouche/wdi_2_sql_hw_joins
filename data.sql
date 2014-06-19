@@ -1,3 +1,5 @@
+\c hw_joins
+
 -- Create sample users
 
 INSERT INTO users (login) VALUES
@@ -22,8 +24,7 @@ INSERT INTO users (login) VALUES
   ('Sue'),
   ('Mary'),
   ('Stevie'),
-  ('Alex')
-);
+  ('Alex');
 
 -- Create sample categories
 
@@ -33,8 +34,7 @@ INSERT INTO categories (name) VALUES
   ('Technology'),
   ('Dating'),
   ('Lifehacks'),
-  ('Venture Capital')
-);
+  ('Venture Capital');
 
 -- Create sample blog posts
 
